@@ -1,0 +1,231 @@
+0000.003 (0) Opened log file at time: Fri, 11 Apr 2025 13:39:03 +0000 on https://mitchco.local
+0000.005 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.2 WP: 6.7.2 PHP: 8.2.23 (cgi-fcgi, Windows NT BEASTMODE 10.0 build 26100 (Windows 11) AMD64) MySQL: 8.0.35 (max packet size=16777216) WPLANG: en_US Server: nginx/1.26.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 8.7M | 12M) multisite: N openssl: OpenSSL 3.0.13 30 Jan 2024 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.008 (0) Free space on disk containing Updraft's temporary directory: 809723.2 MB
+0000.013 (0) Deleting old log file: log.0a8e188f3db7.txt
+0000.016 (0) Deleting old log file: log.901983dd2d5e.txt
+0000.018 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: manual)
+0000.020 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0000.058 (0) Requesting semaphore lock (f) (apparently via scheduler: last_scheduled_action_called_at=1741962537, seconds_ago=2416206)
+0000.066 (0) Set semaphore last lock (f) time to 2025-04-11 13:39:03
+0000.068 (0) Semaphore lock (f) complete
+0000.075 (0) Backup run: resumption=0, nonce=0a930fb0003e, file_nonce=0a930fb0003e begun at=1744378743 (0s ago), job type=backup
+0000.079 (0) Scheduling a resumption (1) after 300 seconds (1744379043) in case this run gets aborted
+0000.112 (0) Checking if we have a zip executable available
+0000.122 (0) Creation of backups of directories: beginning
+0000.133 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.491 (0) Total entities for the zip file: 1266 directories, 5598 files (0 skipped as non-modified), 71.9 MB
+0003.502 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0003.729 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 100 files added (on-disk size: 264.5 KB)
+0003.803 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 200 files added (on-disk size: 264.5 KB)
+0003.871 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 300 files added (on-disk size: 264.5 KB)
+0003.944 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 400 files added (on-disk size: 264.5 KB)
+0004.037 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 500 files added (on-disk size: 264.5 KB)
+0004.112 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 600 files added (on-disk size: 264.5 KB)
+0004.187 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 700 files added (on-disk size: 264.5 KB)
+0004.267 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 800 files added (on-disk size: 264.5 KB)
+0004.340 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 900 files added (on-disk size: 264.5 KB)
+0004.405 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 1000 files added (on-disk size: 264.5 KB)
+0004.411 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.3 MB, 5598 files batched, 1001 (1002) added so far); re-opening (prior size: 264.5 KB)
+0006.922 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 1100 files added (on-disk size: 5022 KB)
+0006.995 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 1200 files added (on-disk size: 5022 KB)
+0007.071 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 1300 files added (on-disk size: 5022 KB)
+0007.144 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 1400 files added (on-disk size: 5022 KB)
+0007.218 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 1500 files added (on-disk size: 5022 KB)
+0007.291 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 1600 files added (on-disk size: 5022 KB)
+0007.363 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 1700 files added (on-disk size: 5022 KB)
+0007.437 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 1800 files added (on-disk size: 5022 KB)
+0007.531 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 1900 files added (on-disk size: 5022 KB)
+0007.605 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 2000 files added (on-disk size: 5022 KB)
+0007.610 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.6 MB, 5598 files batched, 1001 (2003) added so far); re-opening (prior size: 5022 KB)
+0012.552 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 2100 files added (on-disk size: 11274.8 KB)
+0012.628 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 2200 files added (on-disk size: 11274.8 KB)
+0012.706 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 2300 files added (on-disk size: 11274.8 KB)
+0012.781 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 2400 files added (on-disk size: 11274.8 KB)
+0012.855 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 2500 files added (on-disk size: 11274.8 KB)
+0012.932 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 2600 files added (on-disk size: 11274.8 KB)
+0013.009 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 2700 files added (on-disk size: 11274.8 KB)
+0013.088 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 2800 files added (on-disk size: 11274.8 KB)
+0013.165 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 2900 files added (on-disk size: 11274.8 KB)
+0013.249 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 3000 files added (on-disk size: 11274.8 KB)
+0013.255 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.3 MB, 5598 files batched, 1001 (3004) added so far); re-opening (prior size: 11274.8 KB)
+0019.801 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 3100 files added (on-disk size: 17943.4 KB)
+0019.871 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 3200 files added (on-disk size: 17943.4 KB)
+0019.946 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 3300 files added (on-disk size: 17943.4 KB)
+0020.022 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 3400 files added (on-disk size: 17943.4 KB)
+0020.097 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 3500 files added (on-disk size: 17943.4 KB)
+0020.170 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 3600 files added (on-disk size: 17943.4 KB)
+0020.246 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 3700 files added (on-disk size: 17943.4 KB)
+0020.317 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 3800 files added (on-disk size: 17943.4 KB)
+0020.394 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 3900 files added (on-disk size: 17943.4 KB)
+0020.466 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 4000 files added (on-disk size: 17943.4 KB)
+0020.474 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.9 MB, 5598 files batched, 1001 (4005) added so far); re-opening (prior size: 17943.4 KB)
+0023.787 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 4100 files added (on-disk size: 21191.7 KB)
+0023.863 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 4200 files added (on-disk size: 21191.7 KB)
+0023.935 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 4300 files added (on-disk size: 21191.7 KB)
+0024.008 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 4400 files added (on-disk size: 21191.7 KB)
+0024.077 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 4500 files added (on-disk size: 21191.7 KB)
+0024.148 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 4600 files added (on-disk size: 21191.7 KB)
+0024.222 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 4700 files added (on-disk size: 21191.7 KB)
+0024.294 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 4800 files added (on-disk size: 21191.7 KB)
+0024.366 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 4900 files added (on-disk size: 21191.7 KB)
+0024.439 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 5000 files added (on-disk size: 21191.7 KB)
+0024.448 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.4 MB, 5598 files batched, 1001 (5006) added so far); re-opening (prior size: 21191.7 KB)
+0030.720 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 5100 files added (on-disk size: 28115.7 KB)
+0030.794 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 5200 files added (on-disk size: 28115.7 KB)
+0030.866 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 5300 files added (on-disk size: 28115.7 KB)
+0030.939 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 5400 files added (on-disk size: 28115.7 KB)
+0031.011 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.tmp: 5500 files added (on-disk size: 28115.7 KB)
+0033.793 (0) Creating zip file manifest (backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.list-temp.tmp)
+0033.999 (0) Successfully created zip file manifest (size: 548019)
+0034.319 (0) Created plugins zip (0) - 29194.1 KB in 34.2 s (854.2 KB/s) (sha1: 2ce9dac42d734d722558310273da42a3e041d1e8, sha256: 60404613d09ecffba71fbf14151442292775f770e4765e0c50e5ce9c2bbb20e2)
+0034.333 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0034.335 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-84cd46ba644eb9f4a2ad457bd48ae26d)
+0037.810 (0) Google Drive: quota usage: used=1319.8 MB, total=1063936 MB, available=1062616.2 MB
+0037.813 (0) Google Drive: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip: Attempting to upload to Google Drive (into folder id: 1iEOOr9haMzGnkZbvK-7cV18sSUjuFsvS)
+0039.796 (0) Googledrive chunked upload: 3.5 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 10.6 / 14)
+0041.077 (0) Googledrive chunked upload: 10.5 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 10.6 / 14)
+0042.963 (0) Googledrive chunked upload: 24.6 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 10.6 / 14)
+0045.479 (0) Googledrive chunked upload: 52.6 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 10.6 / 14)
+0049.598 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0049.609 (0) Google Drive: OK: Archive backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip uploaded in 11.79 seconds
+0049.611 (0) Recording as successfully uploaded: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip
+0049.622 (0) Deleting local file: backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip: OK
+0049.637 (0) Beginning creation of dump of themes (split every: 400 MB)
+0050.188 (0) Total entities for the zip file: 155 directories, 858 files (0 skipped as non-modified), 17.7 MB
+0050.272 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0050.361 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0050.456 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0050.537 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0050.620 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0050.698 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0050.775 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0050.847 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0055.628 (0) Creating zip file manifest (backup_2025-04-11-0839_MitchCo_0a930fb0003e-themes.zip.list-temp.tmp)
+0055.663 (0) Successfully created zip file manifest (size: 60639)
+0055.796 (0) Created themes zip (0) - 10252.6 KB in 6.1 s (1667.1 KB/s) (sha1: c87f351defa3069e79a0c229239256f436bd9c4b, sha256: 2654c01c53d6ecfcffc21ecea2c83ede7fdc108c09c523cbb28485bc219c7928)
+0055.808 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0055.810 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-84cd46ba644eb9f4a2ad457bd48ae26d)
+0056.664 (0) Google Drive: quota usage: used=1348.3 MB, total=1063936 MB, available=1062587.7 MB
+0056.678 (0) Google Drive: backup_2025-04-11-0839_MitchCo_0a930fb0003e-themes.zip: Attempting to upload to Google Drive (into folder id: 1iEOOr9haMzGnkZbvK-7cV18sSUjuFsvS)
+0058.735 (0) Googledrive chunked upload: 10 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 9.7 / 14)
+0060.350 (0) Googledrive chunked upload: 30 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 9.8 / 14)
+0062.307 (0) Googledrive chunked upload: 69.9 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 9.8 / 14)
+0064.586 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+0064.592 (0) Google Drive: OK: Archive backup_2025-04-11-0839_MitchCo_0a930fb0003e-themes.zip uploaded in 7.91 seconds
+0064.594 (0) Recording as successfully uploaded: backup_2025-04-11-0839_MitchCo_0a930fb0003e-themes.zip
+0064.601 (0) Deleting local file: backup_2025-04-11-0839_MitchCo_0a930fb0003e-themes.zip: OK
+0064.608 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0064.610 (0) Looking for candidates to backup in: C:\Users\bdola\Local Sites\mitchco\app\public/wp-content/uploads
+0064.612 (0) finding files: 2020: adding to list (1)
+0064.614 (0) finding files: 2021: adding to list (2)
+0064.615 (0) finding files: 2025: adding to list (3)
+0064.617 (0) finding files: fonts: adding to list (4)
+0064.619 (0) finding files: ithemes-security: adding to list (5)
+0064.621 (0) finding files: kadence_blocks_library: adding to list (6)
+0064.623 (0) finding files: kadence_starter_templates: adding to list (7)
+0064.624 (0) finding files: wc-logs: adding to list (8)
+0064.626 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (9)
+0064.627 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (10)
+0064.629 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (11)
+0064.631 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (12)
+0064.633 (0) finding files: woocommerce-placeholder.png: adding to list (13)
+0064.634 (0) finding files: woocommerce_uploads: adding to list (14)
+0064.636 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0064.789 (0) Total entities for the zip file: 18 directories, 401 files (0 skipped as non-modified), 49.9 MB
+0064.846 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0064.910 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0064.964 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0064.972 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.3 MB, 401 files batched, 306 (306) added so far); re-opening (prior size: 0 KB)
+0065.747 (0) A useful amount of data was added after this amount of zip processing: 1.8 s (normalised: 1.8 s, rate: 14439.1 KB/s)
+0065.752 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.7943799495697, normalised_time=1.7729665013519, max_time=65.746760129929, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0065.805 (0) Zip: backup_2025-04-11-0839_MitchCo_0a930fb0003e-uploads.zip.tmp: 400 files added (on-disk size: 24739.5 KB)
+0068.342 (0) Creating zip file manifest (backup_2025-04-11-0839_MitchCo_0a930fb0003e-uploads.zip.list-temp.tmp)
+0068.363 (0) Successfully created zip file manifest (size: 29289)
+0068.626 (0) Created uploads zip (0) - 32864.7 KB in 4 s (8250.2 KB/s) (sha1: 456559ad5f46e28bb70184119952818de5235ce5, sha256: 43026321d80319b40bc15cf025f36f5664020ae4d979996c8515cf2172400cb7)
+0068.634 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0068.636 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-84cd46ba644eb9f4a2ad457bd48ae26d)
+0069.299 (0) Google Drive: quota usage: used=1358.3 MB, total=1063936 MB, available=1062577.7 MB
+0069.304 (0) Google Drive: backup_2025-04-11-0839_MitchCo_0a930fb0003e-uploads.zip: Attempting to upload to Google Drive (into folder id: 1iEOOr9haMzGnkZbvK-7cV18sSUjuFsvS)
+0070.964 (0) Googledrive chunked upload: 3.1 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 9.7 / 14)
+0072.143 (0) Googledrive chunked upload: 9.3 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 9.7 / 14)
+0073.864 (0) Googledrive chunked upload: 21.8 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 9.7 / 14)
+0076.289 (0) Googledrive chunked upload: 46.7 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 9.7 / 14)
+0079.587 (0) Googledrive chunked upload: 96.6 % uploaded (32505856)
+0081.222 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0081.229 (0) Google Drive: OK: Archive backup_2025-04-11-0839_MitchCo_0a930fb0003e-uploads.zip uploaded in 11.92 seconds
+0081.232 (0) Recording as successfully uploaded: backup_2025-04-11-0839_MitchCo_0a930fb0003e-uploads.zip
+0081.244 (0) Deleting local file: backup_2025-04-11-0839_MitchCo_0a930fb0003e-uploads.zip: OK
+0081.259 (0) Beginning creation of dump of mu-plugins (split every: 400 MB)
+0081.262 (0) Does not exist: C:\Users\bdola\Local Sites\mitchco\app\public/wp-content/mu-plugins
+0081.264 (0) There are no mu-plugins to backup. Will not raise an error.
+0081.265 (0) mu-plugins: create_zip returned an error
+0081.271 (0) Beginning backup of other directories found in the content directory (index: 0)
+0081.273 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0081.275 (0) Looking for candidates to backup in: C:\Users\bdola\Local Sites\mitchco\app\public/wp-content
+0081.277 (0) finding files: index.php: adding to list (1)
+0081.279 (0) finding files: plugins: skipping: this is the plugins directory
+0081.281 (0) finding files: themes: skipping: this is the themes directory
+0081.282 (0) finding files: updraft: skipping: this is the updraft directory
+0081.284 (0) finding files: upgrade: skipping: excluded by options
+0081.286 (0) finding files: upgrade-temp-backup: adding to list (2)
+0081.287 (0) finding files: uploads: skipping: this is the uploads directory
+0081.298 (0) Total entities for the zip file: 2 directories, 1 files (0 skipped as non-modified), 0 MB
+0081.323 (0) Creating zip file manifest (backup_2025-04-11-0839_MitchCo_0a930fb0003e-others.zip.list-temp.tmp)
+0081.330 (0) Successfully created zip file manifest (size: 43)
+0081.342 (0) Created others zip (0) - 0.4 KB in 0 s (8 KB/s) (sha1: 11267b1d45c79f81a722cfddc9d588710b4a895f, sha256: edccfebfc0e1cecac989d1d0d641d2e8da59bcdde75d4619ddd46456fe9af1f2)
+0081.352 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0081.354 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-84cd46ba644eb9f4a2ad457bd48ae26d)
+0081.943 (0) Google Drive: quota usage: used=1358.3 MB, total=1063936 MB, available=1062577.7 MB
+0081.954 (0) Google Drive: backup_2025-04-11-0839_MitchCo_0a930fb0003e-others.zip: Attempting to upload to Google Drive (into folder id: 1iEOOr9haMzGnkZbvK-7cV18sSUjuFsvS)
+0083.777 (0) Googledrive chunked upload: 100 % uploaded
+0083.783 (0) Google Drive: OK: Archive backup_2025-04-11-0839_MitchCo_0a930fb0003e-others.zip uploaded in 1.83 seconds
+0083.786 (0) Recording as successfully uploaded: backup_2025-04-11-0839_MitchCo_0a930fb0003e-others.zip
+0083.792 (0) Deleting local file: backup_2025-04-11-0839_MitchCo_0a930fb0003e-others.zip: OK
+0083.805 (0) Saving backup status to database (elements: 8)
+0083.814 (0) No database backup (wp) - not part of this run
+0083.819 (0) backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip: plugins: This file has already been successfully uploaded
+0083.822 (0) backup_2025-04-11-0839_MitchCo_0a930fb0003e-themes.zip: themes: This file has already been successfully uploaded
+0083.823 (0) backup_2025-04-11-0839_MitchCo_0a930fb0003e-uploads.zip: uploads: This file has already been successfully uploaded
+0083.825 (0) backup_2025-04-11-0839_MitchCo_0a930fb0003e-others.zip: others: This file has already been successfully uploaded
+0083.826 (0) Saving backup history. Total backup size: 70.6 MB
+0083.831 (0) Resume backup (0a930fb0003e, 0): finish run
+0083.837 (0) There were no more files that needed uploading
+0083.842 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0083.844 (0) Number of backup sets in history: 4; groups (db): 1
+0083.846 (0) Examining (for databases) backup set with group_id=0, nonce=0a930fb0003e, datestamp=1744378743 (Apr 11 2025 13:39:03)
+0083.847 (0) Examining (for databases) backup set with group_id=0, nonce=5d7a4bbb8d3a, datestamp=1741962537 (Mar 14 2025 14:28:57)
+0083.847 (0) Examining (for databases) backup set with group_id=0, nonce=ddda06c0b96c, datestamp=1741890851 (Mar 13 2025 18:34:11)
+0083.847 (0) Examining (for databases) backup set with group_id=0, nonce=901983dd2d5e, datestamp=1739581431 (Feb 15 2025 01:03:51)
+0083.847 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0083.849 (0) Number of backup sets in history: 4; groups (files): 1
+0083.852 (0) Examining (for files) backup set with nonce=0a930fb0003e, datestamp=1744378743 (Apr 11 2025 13:39:03)
+0083.852 (0) This backup set is the backup set just made, so will not be deleted.
+0083.854 (0) This backup set is the backup set just made, so will not be deleted.
+0083.854 (0) This backup set is the backup set just made, so will not be deleted.
+0083.854 (0) This backup set is the backup set just made, so will not be deleted.
+0083.854 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0083.856 (0) Examining (for files) backup set with nonce=5d7a4bbb8d3a, datestamp=1741962537 (Mar 14 2025 14:28:57)
+0083.856 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0083.856 (0) Examining (for files) backup set with nonce=ddda06c0b96c, datestamp=1741890851 (Mar 13 2025 18:34:11)
+0083.856 (0) plugins: over retain limit (2); will delete this file entity
+0083.856 (0) themes: over retain limit (2); will delete this file entity
+0083.856 (0) uploads: over retain limit (2); will delete this file entity
+0083.856 (0) others: over retain limit (2); will delete this file entity
+0086.915 (0) Google Drive: backup_2025-03-13-1334_MitchCo_ddda06c0b96c-others.zip: Deletion successful
+0087.783 (0) Google Drive: backup_2025-03-13-1334_MitchCo_ddda06c0b96c-uploads.zip: Deletion successful
+0089.257 (0) Google Drive: backup_2025-03-13-1334_MitchCo_ddda06c0b96c-themes.zip: Deletion successful
+0090.466 (0) Google Drive: backup_2025-03-13-1334_MitchCo_ddda06c0b96c-plugins.zip: Deletion successful
+0090.486 (0) This backup set is now empty; will remove from history
+0090.488 (0) Deleting log file (log.ddda06c0b96c.txt)
+0090.491 (0) Examining (for files) backup set with nonce=901983dd2d5e, datestamp=1739581431 (Feb 15 2025 01:03:51)
+0090.492 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0090.494 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0090.503 (0) Decremented the semaphore (f) by 1
+0090.507 (0) Semaphore (f) unlocked
+0090.508 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0090.515 (0) Deleting zip manifest (backup_2025-04-11-0839_MitchCo_0a930fb0003e-plugins.zip.list.tmp)
+0090.518 (0) Deleting zip manifest (backup_2025-04-11-0839_MitchCo_0a930fb0003e-themes.zip.list.tmp)
+0090.520 (0) Deleting zip manifest (backup_2025-04-11-0839_MitchCo_0a930fb0003e-uploads.zip.list.tmp)
+0090.522 (0) Deleting zip manifest (backup_2025-04-11-0839_MitchCo_0a930fb0003e-others.zip.list.tmp)
+0090.524 (0) No email will/can be sent - the user has not configured an email address.
+0090.526 (0) The backup succeeded and is now complete

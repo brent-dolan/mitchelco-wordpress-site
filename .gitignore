@@ -1,0 +1,31 @@
+# 🧹 Ignore WordPress core folders
+wp-admin/
+wp-includes/
+
+# 🔒 Sensitive config (you can version a sample instead)
+wp-config.php
+
+# 🧾 Ignore license/readme files
+license.txt
+readme.html
+xmlrpc.php
+
+# 📁 Ignore user media & cache
+wp-content/uploads/
+wp-content/cache/
+
+# 💾 Ignore LocalWP site logs, DB, exports
+*.sql
+*.zip
+*.db
+*.local
+logs/
+*.log
+
+# 💻 Ignore system files
+.DS_Store
+Thumbs.db
+
+# 🌐 Optional: Node, Composer, etc. (if you use them)
+node_modules/
+vendor/
